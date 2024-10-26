@@ -65,7 +65,7 @@ footer {
     color: rgb(255, 255, 255);
 }
 
-.copyright:valid {
+.copyright:visited {
     color: rgb(193, 234, 251);
 }
 
